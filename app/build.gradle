@@ -1,0 +1,2 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.livesub.app'; compileSdk 35; defaultConfig { applicationId 'com.livesub.app'; minSdk 26; targetSdk 32; versionCode 2; versionName '0.2.0' } }
